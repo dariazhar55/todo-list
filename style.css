@@ -34,3 +34,14 @@ css
          color: white;
          border: none;
      }
+
+     li button {
+    background-color: #dc3545;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+li span {
+    flex-grow: 1;
+    text-align: left;
+}
